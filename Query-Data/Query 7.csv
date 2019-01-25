@@ -1,0 +1,3 @@
+experiment,experiment_group,users,total_treated_users,treatment_percent,total,average,rate_difference,rate_lift,stdev,t_stat,p_value
+publisher_update,control_group,873,1722,0.5070,2546,2.9164,0.0000,0.0000,3.8758,0.0000,1.0
+publisher_update,test_group,849,1722,0.4930,3460,4.0754,1.1590,0.3974,4.7676,5.5266,3.199999998315661E-8

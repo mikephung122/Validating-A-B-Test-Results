@@ -1,8 +1,8 @@
 # Validating-A-B-Test-Results
-A project used to help those with solid SQL knowledge sharpen their analytical thinking ability.  In this scenario a new feature tests off the charts and it is our job to determine the validity of the experiment.
+A project which challenges those with a solid SQL knowledge to sharpen their analytical thinking ability.  In this scenario a new feature tests off the charts and it is our job to determine the validity of the experiment.
 
 ## Overview
-This project is one three SQL Analytics Trainings provided by Mode Analytics - a data analysis platform that combines a powerful, web-based SQL editor with charting and sharing tools.  An overview of the trainings can be found at https://mode.com/sql-tutorial/sql-business-analytics-training/ while a description of this particular project can be found at https://mode.com/sql-tutorial/validating-ab-test-results/.  The project was completed using the Mode Analytics platform and rerecreated using a Jupyter notebook with exported query results.  The report can be seen at https://modeanalytics.com/end34v0r13/reports/c15ec8af1ec1/runs/844bd3731a1e.
+This project is one three SQL Analytics challenges provided by Mode Analytics - a data analysis platform that combines a powerful, web-based SQL editor with charting and sharing tools.  An overview of the trainings can be found at https://mode.com/sql-tutorial/sql-business-analytics-training/ while a description of this particular project can be found at https://mode.com/sql-tutorial/validating-ab-test-results/.  The project was completed using the Mode Analytics platform and rerecreated using a Jupyter notebook with exported query results.  The report can be seen at https://modeanalytics.com/end34v0r13/reports/c15ec8af1ec1/runs/844bd3731a1e.
 
 ## Contents
 This repository contains the following items:
